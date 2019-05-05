@@ -7,5 +7,10 @@
 - [x] CVS by tutorials
 - [ ] Fortran for fun and profit
 - [x] RxSwift by tutorials
+<<<<<<< HEAD
 [ ] Writing tutorial by tutorials
 [ ] 50 shades of Green
+=======
+- [ ] Writing tutorials, by tutorials
+- [ ] 50 Shades of Green
+>>>>>>> ANDi-85/master
